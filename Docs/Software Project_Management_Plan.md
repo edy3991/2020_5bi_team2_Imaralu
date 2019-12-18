@@ -30,7 +30,7 @@ Bryan Imaralu
 
 Giovanni Gottardi
 
-Nicolò Salaorni
+NicolÃ² Salaorni
 
 Edoardo Gruia
 
@@ -207,8 +207,8 @@ A working app, easy-to-use that allows users to chat with people they want.
 | --- | --- | --- |
 | Project Manager | Bryan Imaralu | Call team meetings, coordinate communications within group, coordinate communications outside group, break out tasks, assign them to teammates |
 | Developer | Bryan Imaralu, Giovanni Gottardi | Develop software based on requirement and architect specifications |
-| Programmer | Edoardo Gruia, Nicolò Salaorni | Program to requirement and architect specifications |
-| Tester | Giovanni Gottardi, Nicolò Salaorni | Write test cases, perform unit testing of test cases against incremental release of code, perform integrated testing of test cases against incremental release of code, report issues |
+| Programmer | Edoardo Gruia, NicolÃ² Salaorni | Program to requirement and architect specifications |
+| Tester | Giovanni Gottardi, NicolÃ² Salaorni | Write test cases, perform unit testing of test cases against incremental release of code, perform integrated testing of test cases against incremental release of code, report issues |
 | Architect | Edoardo Gruia | Specify overall internal workings of application |
 | Requirement Engineer | Bryan Imaralu | Outline and document project dependencies and requirements. This includes internal and external dependencies. |
 
@@ -226,7 +226,7 @@ An iterative and incremental development process is planned.  Feedback will be u
 ## 2.4Tools
 
 - .Programming - Python
-- .Version Control – all work products will be stored in an repository
+- .Version Control â€“ all work products will be stored in an repository
 
 # 3Work Plan
 
