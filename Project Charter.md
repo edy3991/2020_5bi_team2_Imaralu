@@ -5,8 +5,9 @@
 | **Project Sponsor:** - |
 | **Customer:** Edoardo Gruia, Nicolò Salaorni and Giovanni Gottardi |
 | **Users:** Edoardo Gruia, Nicolò Salaorni and Giovanni Gottardi |
-| **Stakeholders and Expectations:** Team: All of us, except the manager, create a client by programming in python the correct messages&#39;s header.Manager Imaralu: The manager has the task to create a server to give us the possibility to             communicate together. |
-| **Purpose (Problem or opportunity addressed by the project)**: The purpose of this project is to communicate together and send to everyone messages. We can send different type of messages, for examples private message, broadcast message or multicast message. Without the server we can&#39;t go anyway we need it because the server is connected to internet and we are connected to him and so we can send message to us. |
+| **Stakeholders and Expectations:** Team: All of us create a client/server by programming in python. We have to, at the beginning, to write
+    the correct messages header. This headers need to send message between us and to offer service to a private client. |
+| **Purpose (Problem or opportunity addressed by the project)**: The purpose of this project is to communicate together and send to everyone messages. We can send different type of messages, for examples private message, broadcast message or multicast message. Without the server we can't go anyway we need it because the server is connected to internet and we are connected to him and so we can send message to us. |
 | **Goals and Objectives** : The goal is to learn how to create a client (or a server in the case of the manager), to send a message and to manage the sundry errors that appears. |
 | **Schedule Information (Major milestones and deliverables)**:22/10/2019 - Beginning the project
 26/10/2019 - Progress the works
